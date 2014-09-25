@@ -21,6 +21,6 @@ ln -fs $minecraft_root/eula.txt $world_root/eula.txt
 
 cd $world_root
 
-java $jvm_args -jar $minecraft_root/forge-$minecraft_forge_version-universal.jar
+java $jvm_args -jar $minecraft_root/minecraftforge-universal-$minecraft_forge_version-v164-pregradle.jar
 
 set +x

@@ -1,4 +1,4 @@
-FROM cdata/minecraft:1.7.2
+FROM cdata/minecraft:1.6.4
 MAINTAINER Chris Joel <chris@scriptolo.gy>
 
 ENV BUILDDIR /build
